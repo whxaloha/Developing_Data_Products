@@ -1,0 +1,41 @@
+BMI--Care your health
+========================================================
+author: HX
+date: 2015-01-24
+font-family: 'Helvetica'
+Introduction of BMI
+========================================================
+
+
+- What is BMI?
+- How is BMI calculated?
+- How to interpret BMI?
+
+What is BMI?
+========================================================
+Body Mass Index (BMI) is a number calculated from a person's weight and height. BMI is a fairly reliable indicator of body fatness for most people.
+
+(Definition Source: http://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/)
+
+How is BMI calculated?
+========================================================
+Formula = weight (kg) / [height (m)]^2
+
+Formula = weight (lb) / [height (in)]2 x 703
+
+Examples
+========================================================
+weight = 100kg, Height = 1.7m
+BMI = 100 kg/ (1.7m)^2 = 34.6 
+
+How to interpret BMI?
+========================================================
+BMI < 18.5 --- Underweight
+
+18.5--24.9 --- Normal
+
+25.0--29.9 --- Overweight
+
+BMI > 30.0 --- Obese
+
+
